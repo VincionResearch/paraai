@@ -1,0 +1,35 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+  border-radius: 40px; /* This will make the image rounded */
+}
+
+
+.boundingb {
+  border: 2px dotted #C1ECE4; /* Red, dotted border */
+  padding: 20px; /* Space between the border and the content */
+  margin: 10px; /* Space around the bounding box */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
+
+.bounding-box img {
+  width: 100%; /* Make the image expand to the width of the bounding box */
+  height: auto; /* Keep the original aspect ratio of the image */
+}
+
+.bounding-box p {
+  text-align: center; /* Center the text */
+  font-size: 18px; /* Set the font size */
+}
+
+.red-dotted-border {
+  border: 2px dotted #ff0000; /* Red, dotted border */
+}
