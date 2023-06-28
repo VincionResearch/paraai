@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkparaai=self.webpackChunkparaai||[]).push([[535],{5641:a=>{a.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Contact Us","permalink":"/paraai/blog/contact"}]}')}}]);

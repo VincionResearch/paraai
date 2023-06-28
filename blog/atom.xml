@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://vincionresearch.github.io/paraai/blog</id>
+    <title>ParaAI Blog</title>
+    <updated>2023-06-28T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://vincionresearch.github.io/paraai/blog"/>
+    <subtitle>ParaAI Blog</subtitle>
+    <icon>https://vincionresearch.github.io/paraai/img/favicon_2.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Contact Us]]></title>
+        <id>https://vincionresearch.github.io/paraai/blog/contact</id>
+        <link href="https://vincionresearch.github.io/paraai/blog/contact"/>
+        <updated>2023-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello, please visit my website  to know more about me.]]></summary>
+        <content type="html"><![CDATA[<p>Hello, please visit my <a href="https://sidsharma22.github.io/my-website/" target="_blank" rel="noopener noreferrer">website </a> to know more about me.</p><ul><li>Email: siddivsharma <!-- -->[at]<!-- --> gmail <!-- -->[dot]<!-- --> com</li><li>Phone: +(353)899-535152</li></ul>]]></content>
+        <author>
+            <name>Sidharth Sharma</name>
+        </author>
+    </entry>
+</feed>
